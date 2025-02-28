@@ -58,7 +58,7 @@ I used **pandas, Matplotlib & Seaborn** to uncover insights like:
 
 I designed an interactive Tableau dashboard to explore Netflix trends dynamically.
 
-👉 Click here to view the [Tableau Dashboard](https://public.tableau.com/app/profile/munna.8294/viz/NetflixDataVisualization_17404996998220/Netflix)
+👉 Click here to view the [Tableau Dashboard]([(https://public.tableau.com/app/profile/sweta.sonulkar/viz/NetflixDataVisualization_17407005282710/Netflix))
 
 📄How to explore? 
 
@@ -74,7 +74,3 @@ The second and the third line of the dashboard is the overall visualization of t
 
 🔹 Tableau - Interactive data visualization
 
-## 📞 Contact
-
-🔗 [LinkedIn](http://linkedin.com/in/munna-a4ab07253)
-📁 [GitHub](https://github.com/Munna-Git)
